@@ -5,6 +5,8 @@ Whole-body PBPK model of intravenously administered amoxicillin in adults, pregn
 
 Within this repository, we distribute a whole-body PBPK models of intravenously administered amoxicillin in adults, pregnant women and postpartum women. Details on model building and evaluation have been published previously [[1](#References)].
 
+This repository contains the PK-Sim<sup>®</sup> files for adults and pregnant women. The postpartum population is not officially integrated in PK-Sim<sup>®</sup> and therefore only the MoBi<sup>®</sup> file with the postpartum structure (but not the correct parameterization) and the physiological parameters of the postpartum population are available here.
+
 ### Version Information
 
 PK-Sim Version 8.0
@@ -19,4 +21,4 @@ The model is distributed under the [GPLv2 License](https://github.com/Open-Syste
 
 ### Reference
 
-[1][ Dallmann, A., Himstedt, A., Solodenko, J. et al. Integration of physiological changes during the postpartum period into a PBPK framework and prediction of amoxicillin disposition before and shortly after delivery. J Pharmacokinet Pharmacodyn (2020).](https://doi.org/10.1007/s10928-020-09706-z)\
+[1][ Dallmann, A., Himstedt, A., Solodenko, J. et al. Integration of physiological changes during the postpartum period into a PBPK framework and prediction of amoxicillin disposition before and shortly after delivery. J Pharmacokinet Pharmacodyn (2020).](https://doi.org/10.1007/s10928-020-09706-z)
