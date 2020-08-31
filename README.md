@@ -5,7 +5,7 @@ Whole-body PBPK model of intravenously administered amoxicillin in adults, pregn
 
 Within this repository, we distribute a whole-body PBPK models of intravenously administered amoxicillin in adults, pregnant women and postpartum women. Details on model building and evaluation have been published previously [[1](#References)].
 
-This repository contains the PK-Sim<sup>®</sup> files for adults and pregnant women. The postpartum population is not officially integrated in PK-Sim<sup>®</sup> and therefore only the MoBi<sup>®</sup> file with the postpartum structure (but not the correct parameterization) and the physiological parameters of the postpartum population are available here.
+This repository contains the PK-Sim<sup>®</sup> files for adults and pregnant women. The postpartum population is not officially integrated in PK-Sim<sup>®</sup>. Therefore, this repository contains the MoBi<sup>®</sup> file with the postpartum structure (please note that this model is not correctly parameterized in terms of the postpartum anatomy and physiology) and a csv file with the anatomical and physiological parameters of 2000 postpartum individuals.
 
 ### Version Information
 
